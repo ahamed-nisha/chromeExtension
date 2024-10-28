@@ -5,13 +5,13 @@
     "version": "1.0",
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "./assets/calendarDrawing.png"
+      "default_icon": "./assets/calendar-icon.png"
     },
     "icons": {
-      "16": "./assets/calendarDrawing.png",
-      "32": "./assets/calendarDrawing.png",
-      "48": "./assets/calendarDrawing.png",
-      "128": "./assets/calendarDrawing.png"
+      "16": "./assets/calendar-icon.png",
+      "32": "./assets/calendar-icon.png",
+      "48": "./assets/calendar-icon.png",
+      "128": "./assets/calendar-icon.png"
     },
     "author": "Nisha & Jose",
     "permissions": ["storage", "webNavigation", "tabs"]
